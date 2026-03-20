@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DotBox</h1>
-<h3 align="center">A low level system and android developer</h3>
+<h3 align="center">A low level system and graphics programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0t-b0x&label=Profile%20views&color=0e75b6&style=flat" alt="d0t-b0x" /> </p>
 
